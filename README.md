@@ -9,7 +9,7 @@
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/qr/5G3WTFX22RXXH1)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/devv_aprendiz/)
 
-![Newton GitHub stats](https://github-readme-stats.vercel.app/api?username=projetosnewton&show_icons=true&theme=onedark)
+![Newton GitHub stats](https://github-readme-stats.vercel.app/api?username=newtoncutrim&show_icons=true&theme=onedark)
 
 ## Tecnologias que uso no meu dia.
 
@@ -25,7 +25,7 @@
 </div>
 <br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=projetosnewton&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=newtoncutrim&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 Apaixonado por tecnologia, educação e por mudar a vida das pessoas através da programação.
 
