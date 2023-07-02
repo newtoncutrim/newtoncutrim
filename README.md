@@ -31,4 +31,4 @@ Apaixonado por tecnologia, educação e por mudar a vida das pessoas através da
 ## Email para contato:
 - [newtoncutrim777@gmail.com](https://newtoncutrim777@gmail.com/)
 
-- [Portifolio](https://portifolionewton.netlify.app)
+<!--- [Portifolio](https://portifolionewton.netlify.app)-->
