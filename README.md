@@ -85,13 +85,15 @@ class NewtonCutrim
 
 ---
 
-## 🏆 Troféus do GitHub
+## 🗂️ Resumo detalhado
 
 <p align="center">
-  <img
-    src="https://github-profile-trophy.vercel.app/?username=newtoncutrim&theme=onedark&no-bg=true&margin-w=8&margin-h=8&rank=SECRET,SSS,SS,S,AAA,AA,A,B"
-    alt="GitHub Trophies"
-  />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=newtoncutrim&theme=tokyonight" width="95%" />
+</p>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=newtoncutrim&theme=tokyonight" width="32%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=newtoncutrim&theme=tokyonight" width="32%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=newtoncutrim&theme=tokyonight" width="32%" />
 </p>
 
 ---
