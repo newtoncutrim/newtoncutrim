@@ -89,7 +89,7 @@ class NewtonCutrim
 
 <p align="center">
   <img
-    src="https://github-profile-trophy.vercel.app/?username=newtoncutrim&theme=tokyonight&no-frame=true&margin-w=10&margin-h=10"
+    src="https://github-profile-trophy.vercel.app/?username=newtoncutrim&theme=onedark&no-bg=true&margin-w=8&margin-h=8&rank=SECRET,SSS,SS,S,AAA,AA,A,B"
     alt="GitHub Trophies"
   />
 </p>
@@ -105,6 +105,25 @@ class NewtonCutrim
     alt="Activity Graph"
   />
 </p>
+
+---
+
+## 🐍 Contribuições sendo devoradas
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/newtoncutrim/newtoncutrim/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/newtoncutrim/newtoncutrim/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    alt="Snake comendo os commits"
+    src="https://raw.githubusercontent.com/newtoncutrim/newtoncutrim/output/github-contribution-grid-snake.svg"
+  />
+</picture>
 
 ---
 
