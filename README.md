@@ -73,18 +73,6 @@ class NewtonCutrim
 
 ---
 
-## 🌐 Linguagens mais usadas
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=newtoncutrim&layout=donut&langs_count=8&theme=tokyonight&hide_border=true&locale=pt-br"
-    width="45%"
-    alt="Top Languages"
-  />
-</p>
-
----
-
 ## 🗂️ Resumo detalhado
 
 <p align="center">
