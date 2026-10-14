@@ -86,18 +86,6 @@ class NewtonCutrim
 
 ---
 
-## 📈 Gráfico de Atividade
-
-<p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=newtoncutrim&theme=tokyo-night&hide_border=true&area=true&radius=8"
-    width="95%"
-    alt="Activity Graph"
-  />
-</p>
-
----
-
 ## 🐍 Contribuições sendo devoradas
 
 <picture>
